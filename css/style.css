@@ -1,0 +1,11 @@
+.bg-img{
+    background: url(../img/rr.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+.avatar{
+    width: 180px;
+    height: 180px;
+    border-radius: 90px;
+    border: 40px;
+}
